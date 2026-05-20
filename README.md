@@ -1,5 +1,5 @@
 # odin-project-recipes
-Practicing HTML by creating a recipe website
+Practicing HTML through The Odin Project by creating a recipe website
 
 Through this project, I learned how to:
 - Setup HTML documents, including the \<html\>, \<head\>, and \<body\> tags
