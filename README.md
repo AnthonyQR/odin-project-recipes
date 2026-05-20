@@ -8,4 +8,6 @@ Through this project, I learned how to:
 - Add images using \<img\> tags
 - Create lists using \<ul\>, \<ol\>, and \<li\> tags
 
-https://www.theodinproject.com/lessons/foundations-recipes
+Link to website: https://anthonyqr.github.io/odin-project-recipes/
+
+Link to The Odin Project: https://www.theodinproject.com/lessons/foundations-recipes
