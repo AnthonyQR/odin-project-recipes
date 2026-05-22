@@ -29,3 +29,18 @@ body {
 #navbar li a:hover {
     background-color: rgb(116, 191, 216);
 }
+
+h1 {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+li, p{
+    font-size: 25px;
+}
+
