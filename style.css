@@ -50,8 +50,16 @@ div {
     width: 60%;
     margin: 1% auto;
     justify-content: center;
+    align-items: center;
     background-color: bisque;
     padding: 1px;
     border-radius: 30px;
+}
+
+img {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 3% auto;
 }
 
