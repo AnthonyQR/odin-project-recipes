@@ -46,6 +46,10 @@ li, p{
     font-size: 25px;
 }
 
+p {
+    text-align: center;
+}
+
 div {
     width: 60%;
     margin: 1% auto;
